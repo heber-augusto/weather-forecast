@@ -25,7 +25,7 @@ The following image shows the final solution architecture, which is divided in (
 
  ![Solution](./images/solution.png)
 
-The [jupyter notebook](/weather-forecast-using-iot-data.ipynb) cells are divided in:
+The [jupyter notebook](./weather-forecast-using-iot-data.ipynb) cells are divided in:
 
  1. Collecting the data;
  2. Preparing the data;
