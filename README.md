@@ -29,8 +29,8 @@ The [jupyter notebook](/weather-forecast-using-iot-data.ipynb) cells are divided
 
  1. Collecting the data;
  2. Preparing the data;
- 3. Feature Engineering;
- 4. Models evalutaion;
+ 3. Feature Engineering and analysis;
+ 4. Model training;
  5. Results.
 
 At the end of the notebook you can see what was the accuracy from the model on answering the following question: is it going to rain or not tomorrow?
